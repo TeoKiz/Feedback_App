@@ -60,6 +60,12 @@ export const FeedbackProvider = ({ children }) => {
     setFeedback(
       feedback.map((item) => (item.id === id ? { ...item, ...data } : item))
     );
+
+    // Bug fix from edit feedback
+    setFeedbackEdit({
+      item: {},
+      edit: false,
+    });
   };
 
   // Set item to be updated
