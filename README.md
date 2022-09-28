@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 You can test this app here: [https://feedback-app-teokiz.netlify.app/]
+Here is only the front-end , latest commits introduced a fake back-end with Json-server package.
+
+-npm i
+-npm run dev (starts the fake json-server along with the front in localhost:5000)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
