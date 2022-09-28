@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+You can test this app here: [https://feedback-app-teokiz.netlify.app/]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
